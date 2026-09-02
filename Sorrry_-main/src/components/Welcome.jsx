@@ -54,7 +54,7 @@ export default function Welcome() {
       {!opened ? (
 
         <button onClick={handleClick}>
-          Tap To Continue ❤️
+          Tap To CONTINUE..... ❤️
         </button>
 
       ) : (
